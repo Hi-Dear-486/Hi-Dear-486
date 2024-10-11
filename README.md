@@ -1,14 +1,16 @@
-<p align="center"><i>“Today is Difficult, Tomorrow is much more Difficult, but the day after tomorrow is beautiful, most People die Tomorrow evening”</i></p>
+<p align="center"><i>“Today is Difficult, Tomorrow is much more Difficult, but the day after tomorrow is beautiful, Most People die Tomorrow evening”</i></p>
 <p align="center"><i>- JACK MA -</i></p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-I am a skilled and experienced full-stack developer with a strong background in web development, software engineering, and database management. I have extensive experience in designing, developing, and deploying web applications.I am a self-motivated individual who is always eager to learn new technologies and stay up-to-date with the latest industry trends. I am a team player who can work well with others to deliver high-quality projects on time.I am currently available for work and open to new opportunities. If you are looking for a full-stack developer who can bring your ideas to life and help your business grow, please feel free to reach out to me.
+**Profile Summary**
 
-[![GitHub Badge](https://img.shields.io/badge/-jaxkashif34-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/jaxkashif34)](https://github.com/jaxkashif34)
-[![Linkedin Badge](https://img.shields.io/badge/-jaxkashif34-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashif-ali-ba8241196/)](https://www.linkedin.com/in/kashif-ali-ba8241196/)
-[![StackOverflow Badge](https://img.shields.io/badge/-jaxkashif34-FE7A16?style=flat&-square&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/16268028/kashif-ali)
-[![Gmail Badge](https://img.shields.io/badge/-jaxkashif34@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaxkashif34@gmail.com)](mailto:jaxkashif34@gmail.com)
+Dynamic and highly skilled Frontend Developer with a strong foundation in web development and user interface design. Specializes in creating responsive, user-friendly web applications leveraging modern frameworks and technologies. Proficient in JavaScript, React, Next JS with a demonstrated ability to translate design concepts into engaging, interactive experiences. A self-motivated professional dedicated to continuous learning and staying current with industry trends. Excels in collaborative environments, effectively working with cross-functional teams. Currently seeking opportunities to enhance user experiences and contribute to impactful projects.
+
+[![Static Badge](https://img.shields.io/badge/Hi-Dear-486?logo=github)](https://github.com/Hi-Dear-486)
+[![Static Badge](https://img.shields.io/badge/Hi-Dear-486?logo=linkedin&logoColor=white&labelColor=%230077B5&color=%230077B5)](https://github.com/Hi-Dear-486)
+[![Static Badge](https://img.shields.io/badge/Hi-Dear-486?logo=stackoverflow&logoColor=white&labelColor=%23F47F24&color=%23F47F24)](https://github.com/Hi-Dear-486)
+[![Static Badge](https://img.shields.io/badge/Hi-Dear-486?logo=gmail&logoColor=white&labelColor=%23ff4343&color=%23ff4343)](https://github.com/Hi-Dear-486)
 
 - 🏢 I'm currently working on ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 - 🚀 I use daily:
@@ -32,7 +34,7 @@ I am a skilled and experienced full-stack developer with a strong background in 
   ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?&logo=Express.JS)
   ![Graphql](https://img.shields.io/badge/-Graphql-E10098?&logo=Graphql)
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
+- ⚡️ Fun fact: I'm a huge fan of Imran Khan, I love to eat and travel
 
 ## ⚡ Technologies
 
@@ -63,7 +65,4 @@ I am a skilled and experienced full-stack developer with a strong background in 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-# What Happened 😵❓
-
-## <p>If you are in a spaceship that is traveling at the speed of light, and you turn on the headlights, does anything happen ?<p>
 
