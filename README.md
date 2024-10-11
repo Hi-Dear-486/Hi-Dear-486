@@ -1,5 +1,5 @@
-<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
-<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
+<p align="center"><i>“Today is Difficult, Tomorrow is much more Difficult, but the day after tomorrow is beautiful, most People die Tomorrow evening”</i></p>
+<p align="center"><i>- JACK MA -</i></p>
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
