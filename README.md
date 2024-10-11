@@ -1,27 +1,69 @@
-![Header](./https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)
-<h1 align="center">Hi 👋, I'm Muhammad Zeeshan</h1>
-<h3 align="center">A passionate Frontend Developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (2013 ~ 1986) -</i></p>
 
-  - 🔭 I’m currently working on: [Next JS]
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-- ⚙️ I also use and work: **HTML5,CSS3,BootStrap**
+I am a skilled and experienced full-stack developer with a strong background in web development, software engineering, and database management. I have extensive experience in designing, developing, and deploying web applications.I am a self-motivated individual who is always eager to learn new technologies and stay up-to-date with the latest industry trends. I am a team player who can work well with others to deliver high-quality projects on time.I am currently available for work and open to new opportunities. If you are looking for a full-stack developer who can bring your ideas to life and help your business grow, please feel free to reach out to me.
 
-- 🚀 I use daily: **Javascript,React,Git,Visual studio,GitHub**
+[![GitHub Badge](https://img.shields.io/badge/-jaxkashif34-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/jaxkashif34)](https://github.com/jaxkashif34)
+[![Linkedin Badge](https://img.shields.io/badge/-jaxkashif34-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kashif-ali-ba8241196/)](https://www.linkedin.com/in/kashif-ali-ba8241196/)
+[![StackOverflow Badge](https://img.shields.io/badge/-jaxkashif34-FE7A16?style=flat&-square&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/16268028/kashif-ali)
+[![Gmail Badge](https://img.shields.io/badge/-jaxkashif34@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaxkashif34@gmail.com)](mailto:jaxkashif34@gmail.com)
 
-- 💻 I work using: **Next JS,Typescript,Shad CN,Tailwind Css,**
+- 🏢 I'm currently working on ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+- 🚀 I use daily:
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?&logo=javascript)
+  ![React](https://img.shields.io/badge/-React-3b2e5a?&logo=react)
+  ![Git](https://img.shields.io/badge/-Git-black?&logo=git)
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
+- 💻 I work using:
+  ![React](https://img.shields.io/badge/-React-3b2e5a?&logo=react)
+  ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?&logo=material-UI)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&logo=postgresql)
+  ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?&logo=github)
+- ⚙️ I also use and work:
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?&logo=bootstrap)
+- 🌱 Learning all about:
+  ![Node.JS](https://img.shields.io/badge/-Node.JS-black?&logo=Node.js)
+  ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?&logo=Express.JS)
+  ![Graphql](https://img.shields.io/badge/-Graphql-E10098?&logo=Graphql)
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+- ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-- 🌱 Learning all about: **Node js, express js**
+## ⚡ Technologies
 
-- ⚡️ Fun fact: **I'm a huge fan of Imran Khan, I love to eat and travel**
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
+![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+<img alt="Tailwindcss" src="https://img.shields.io/badge/-TailwindCss-38bdf8?style=flat-square&logo=tailwindCSS=white" />
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
+![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?&logo=Express.JS)
+<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
+<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+<img alt="Apollo" src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
+<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+<img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?&logo=visual-studio-code)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+<img alt="Prisma" src="https://img.shields.io/badge/-Prisma-1a202c?style=flat-square&logo=prisma&logoColor=white" />
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/zeeshan989" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="zeeshan989" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fullstack developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fullstack developer" height="30" width="40" /></a>
-<a href="https://fb.com/fullstack developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fullstack developer" height="30" width="40" /></a>
-<a href="https://instagram.com/fullstack developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fullstack developer" height="30" width="40" /></a>
-</p>
+# What Happened 😵❓
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## <p>If you are in a spaceship that is traveling at the speed of light, and you turn on the headlights, does anything happen ?<p>
+
